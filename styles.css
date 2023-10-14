@@ -60,3 +60,10 @@ button:hover {
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
     background-color: #cfdd53;
 }
+.operator {
+    background-color: #e6e6e6;
+}
+
+.operator:hover {
+    background-color: #d4d4d4;
+}
